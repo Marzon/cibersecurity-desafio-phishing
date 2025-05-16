@@ -21,5 +21,6 @@
 
 ### Resutados
 
+![Captura de tela 2025-05-16 164527](https://github.com/user-attachments/assets/7060094e-f0ec-4970-b9bb-56cbaee1ac28)
 ![Captura de tela 2025-05-16 164302](https://github.com/user-attachments/assets/2b4e61b0-8650-4fbd-8d8c-7ea88dd525be)
 ![Captura de tela 2025-05-16 164359](https://github.com/user-attachments/assets/9feb6964-5e51-4963-b640-53d9e02ab0c3)
